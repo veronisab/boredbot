@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(45deg, #7ede8d, #36d6e7);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter, sans-serif;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffffaa;
+    border-radius: 20px;
+    width: 60%;
+    max-width: 500px;
+    padding: 15px;
+}
+
+
+button {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    background-color: gold;
+    border: 3px solid #fff;
+    cursor: pointer;
+    margin-block: 30px;
+}
+
+button:hover {
+    transform: scale(1.2);
+    transition: 0.4s;
+}
