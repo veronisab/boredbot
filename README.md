@@ -1,4 +1,6 @@
-# co99a46eab392e5cc92b7141e
+#Boredbot - using the boredAPI
+Simple app where we use fetch() to suggest random activites to do.
+
 
 ## About Scrimba
 
